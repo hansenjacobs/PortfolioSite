@@ -1,0 +1,26 @@
+.form-group{
+	margin-bottom: 5px;
+}
+
+nav{
+	margin-bottom: 5px;
+}
+
+button{
+	width: 100%;
+}
+
+.jumbotron{
+	margin-bottom:0;
+}
+
+.object-pdf{
+	width: 100%;
+	height: 1200px;
+	
+}
+
+#big{
+	height: 1000px;
+	baground-color: blue;
+}
